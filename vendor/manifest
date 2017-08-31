@@ -1,0 +1,106 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/buaazp/fasthttprouter",
+			"repository": "https://github.com/buaazp/fasthttprouter",
+			"vcs": "git",
+			"revision": "ade4e2031af3aed7fffd241084aad80a58faf421",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/klauspost/compress/flate",
+			"repository": "https://github.com/klauspost/compress",
+			"vcs": "git",
+			"revision": "f3dce52e0576655d55fd69e74b63da96ad1108f3",
+			"branch": "master",
+			"path": "/flate",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/klauspost/compress/gzip",
+			"repository": "https://github.com/klauspost/compress",
+			"vcs": "git",
+			"revision": "f3dce52e0576655d55fd69e74b63da96ad1108f3",
+			"branch": "master",
+			"path": "gzip",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/klauspost/compress/zlib",
+			"repository": "https://github.com/klauspost/compress",
+			"vcs": "git",
+			"revision": "f3dce52e0576655d55fd69e74b63da96ad1108f3",
+			"branch": "master",
+			"path": "zlib",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/klauspost/cpuid",
+			"repository": "https://github.com/klauspost/cpuid",
+			"vcs": "git",
+			"revision": "ae7887de9fa5d2db4eaa8174a7eff2c1ac00f2da",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/mailru/easyjson",
+			"repository": "https://github.com/mailru/easyjson",
+			"vcs": "git",
+			"revision": "2f5df55504ebc322e4d52d34df6a1f5b503bf26d",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/mitghi/lfring",
+			"repository": "https://github.com/mitghi/lfring",
+			"vcs": "git",
+			"revision": "72d4869777f4ff099b6f6031cd08ae629cbafafa",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/pquerna/ffjson/fflib/v1",
+			"repository": "https://github.com/pquerna/ffjson",
+			"vcs": "git",
+			"revision": "5333e98ee8b90e40336e56eb540641519813383b",
+			"branch": "master",
+			"path": "/fflib/v1",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/ugorji/go/codec",
+			"repository": "https://github.com/ugorji/go",
+			"vcs": "git",
+			"revision": "5efa3251c7f7d05e5d9704a69a984ec9f1386a40",
+			"branch": "master",
+			"path": "/codec",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/valyala/bytebufferpool",
+			"repository": "https://github.com/valyala/bytebufferpool",
+			"vcs": "git",
+			"revision": "e746df99fe4a3986f4d4f79e13c1e0117ce9c2f7",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/valyala/fasthttp",
+			"repository": "https://github.com/valyala/fasthttp",
+			"vcs": "git",
+			"revision": "ae643c872d2c060154a4fb2162dc1c0ab1693ccd",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/valyala/tcplisten",
+			"repository": "https://github.com/valyala/tcplisten",
+			"vcs": "git",
+			"revision": "ceec8f93295a060cdb565ec25e4ccf17941dbd55",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
